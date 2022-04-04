@@ -17,3 +17,25 @@
 #echo 'src-git helloworld https://github.com/fw876/helloworld' >>feeds.conf.default
 #echo 'src-git passwall https://github.com/xiaorouji/openwrt-passwall' >>feeds.conf.default
 #git clone https://github.com/pali/igmpproxy.git package/lean/igmpproxy
+
+
+cd package/lean 
+
+git clone https://github.com/liuran001/openwrt-packages/tree/packages/iptvhelper.git
+
+
+git clone https://github.com/liuran001/openwrt-packages/tree/packages/luci-app-iptvhelper.git
+
+
+
+#cd package
+#git clone https://github.com/liuran001/openwrt-packages
+
+#rm -rf luci-theme-argon  
+#git clone -b 18.06 https://github.com/jerrykuku/luci-theme-argon.git  
+
+#git clone -b 18.06 https://github.com/r1172464137/luci-theme-edge.git
+#或者添加下面代码到feeds.conf.default文件
+
+#src-git liuran001_packages https://github.com/liuran001/openwrt-packages
+
