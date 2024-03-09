@@ -43,5 +43,4 @@ git clone https://github.com/nickilchen/luci-app-socat.git package/luci-app-soca
 
 git clone https://github.com/rufengsuixing/luci-app-zerotier.git package/luci-app-zerotier
 
-
-
+git clone https://github.com/sirpdboy/luci-app-ddns-go.git package/ddns-go
