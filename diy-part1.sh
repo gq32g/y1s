@@ -41,6 +41,6 @@ echo 'src-git liuran001_packages https://github.com/liuran001/openwrt-packages' 
 
 #git clone https://github.com/nickilchen/luci-app-socat.git package/luci-app-socat
 #git clone https://github.com/rufengsuixing/luci-app-zerotier.git package/luci-app-zerotier
-git clone https://github.com/sirpdboy/luci-app-ddns-go.git package/luci-app-ddns-go
+#git clone https://github.com/sirpdboy/luci-app-ddns-go.git package/luci-app-ddns-go
 
 
